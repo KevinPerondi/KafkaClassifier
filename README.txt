@@ -1,7 +1,9 @@
-1. Selecionar uma base. (exemplos: https://mega.nz/#F!H0cyEY6Y!O8TdzzsZFCYIMf8EOiIwkQ)
+Etapas para execução:
 
-2. Executar o sh para filtrar a base.
+  1. Selecionar uma base. (exemplos: https://mega.nz/#F!H0cyEY6Y!O8TdzzsZFCYIMf8EOiIwkQ)
 
-3. Inicialização do ZooKeeper e o servidor Kafka. Os comandos estão comentados no inicio das classes Build.
+  2. Executar o sh para filtrar a base.
 
-4. Executar os consumidores e produtores.
+  3. Inicialização do ZooKeeper e o servidor Kafka (versão 1.0.0). Os comandos estão comentados no inicio das classes Build.
+
+  4. Executar os consumidores e produtores.
