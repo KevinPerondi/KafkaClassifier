@@ -10,7 +10,6 @@ public class Filtrador {
 
     public static void main(String[] args) throws FileNotFoundException, IOException {
         String nomeArq = args[0];
-        //String nomeArq = "/home/kevin/Documentos/Facul/Sistemas Distribuidos/APS/reduzido.txt";
         File f = new File(nomeArq);
         Scanner scan = new Scanner(f);
 
